@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muusk85crypto
-- 👀 I’m interested in blockchain, Crypto
+- 👀 I’m interested in JS, blockchain, Crypto
 - 🌱 BLOCKCHAIN, SOLIDITY
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS project
 - 📫 How to reach me ...
 
 <!---
